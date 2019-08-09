@@ -1,0 +1,14 @@
+List of files needed for Task1, part B.
+
+
+1) "LabTask01_Partb_MTRN4110_2018.pdf"		: Task's specifications
+
+2) "ExampleMtrn4110UseDepthDataFromFileD.m"	: Example source code.	  
+
+3) "DepthData01.mat"				: Data used for the task	
+						(see the example program, it uses the data).
+4) "IniAPIGetPointCloudFromDepth3.p"		: Library/API for data conversion. To be used as it is 								(see the example program, it uses that API).
+
+
+Jose Guivant.
+MTRN4110, S2.2018.
